@@ -1,0 +1,2 @@
+# globalVC
+discord.jsでグローバルボイスチャット！
